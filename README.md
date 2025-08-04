@@ -48,7 +48,7 @@ A Siamese Neural Network is designed to learn **similarity between two inputs**.
 
 ---
 
-This is an experimental project where I implemented a **face verification system** using a **Siamese Neural Network**, inspired by the original Siamese paper on one-shot learning. The model takes two face images and predicts whether they belong to the same person.
+This is an experimental project where I implemented a **face verification system** using a **Siamese Neural Network**, inspired by the original Siamese paper on one-shot learning. The model takes a image and varified the user.
 
 ---
 
