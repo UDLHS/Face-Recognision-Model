@@ -86,15 +86,6 @@ This project was built:
 
 ---
 
-## 🔮 Future Improvements
-
-- Use a **larger face dataset** (e.g., LFW, VGGFace2)
-- Implement **triplet loss** or try **ArcFace / CosFace**
-- Add **real-time webcam input** and deploy the model with an API
-- Tune hyperparameters and add better data augmentation
-
----
-
 ## 👤 Author
 
 - **Udula**
